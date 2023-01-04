@@ -3,7 +3,6 @@
 #include <conio.h>
 #include <stdio.h>
 
-
 int main()
 {
 
@@ -99,7 +98,7 @@ int main()
         }
         if(i>=164)
         {
-            //Custom Star
+        //Custom Star
         setcolor(WHITE);
         setfillstyle(SOLID_FILL,WHITE);
         ellipse(50,100,0,360,1.5,6);
@@ -107,7 +106,6 @@ int main()
         ellipse(50,100,0,360,6,1.5);
         floodfill(53,100,WHITE);
         floodfill(47,100,WHITE);
-
 
         setcolor(WHITE);
         setfillstyle(SOLID_FILL,WHITE);
