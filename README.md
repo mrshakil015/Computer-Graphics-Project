@@ -6,4 +6,5 @@ https://user-images.githubusercontent.com/98937877/215349858-3a3291bc-a8ce-4d00-
 ## Day Scene:
 ![Day Part](https://user-images.githubusercontent.com/98937877/215350383-2fef9c41-5de7-4ae9-9ab4-e8644a6abef8.jpg)
 ## Night Scene:
-![Night Part](https://user-images.githubusercontent.com/98937877/215350389-2d46b47c-05e1-4461-87e6-52e29861c241.jpg)
+![Night Part](https://user-images.githubusercontent.com/98937877/215350535-a689603a-9a7f-47a8-9a21-d8512a7de530.jpg)
+
